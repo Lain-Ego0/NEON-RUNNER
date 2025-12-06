@@ -1,5 +1,0 @@
-{
-  "name": "Neon Runner",
-  "description": "A high-performance, infinite runner game featuring accelerating difficulty, obstacle avoidance, and a neon-synthwave aesthetic. Built with React and HTML5 Canvas.",
-  "requestFramePermissions": []
-}
